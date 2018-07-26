@@ -298,6 +298,10 @@ nav ul li a:hover {
 	right: 20px;
 }
 
+.products .pro-hd a:hover {
+	color: #22b0ff;
+}
+
 .products .pro-bd ul li {
 	width: 228px;
 	height: 270px;
